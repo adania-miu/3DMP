@@ -1,6 +1,3 @@
-Ex 1
-
-Ex 2
 
 Design model A1, A2, A3, A4 
 
