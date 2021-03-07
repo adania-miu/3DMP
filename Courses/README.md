@@ -1,1 +1,1 @@
-Courses prokects
+Courses projects
