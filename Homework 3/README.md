@@ -1,3 +1,3 @@
 Homework 3
 
-Chess pieces
+Design a set of chess pieces.
